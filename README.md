@@ -1,5 +1,6 @@
-## Hi there 👋
+# hey gng
 
+## im a guy and i like coding and i also like making game sites and doing stuff
 <!--
 **Bubbergamesites/Bubbergamesites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
